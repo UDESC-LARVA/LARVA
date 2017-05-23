@@ -1,4 +1,4 @@
-##IBLUEIT
+## IBLUEIT
 
 A serious game to help respiratory dysfunctions treatment.
 
